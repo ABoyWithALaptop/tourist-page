@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/tourist-page/static/css/main.97154b34.css",
-    "main.js": "/tourist-page/static/js/main.d1a37b7e.js",
+    "main.js": "/tourist-page/static/js/main.12125ed2.js",
     "static/media/video-2.mp4": "/tourist-page/static/media/video-2.39e6c79bffb375ae929a.mp4",
     "static/media/img-2.jpg": "/tourist-page/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-1.jpg": "/tourist-page/static/media/img-1.53f4843759ebec256cb9.jpg",
     "static/media/img-8.jpg": "/tourist-page/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/tourist-page/index.html",
     "main.97154b34.css.map": "/tourist-page/static/css/main.97154b34.css.map",
-    "main.d1a37b7e.js.map": "/tourist-page/static/js/main.d1a37b7e.js.map"
+    "main.12125ed2.js.map": "/tourist-page/static/js/main.12125ed2.js.map"
   },
   "entrypoints": [
     "static/css/main.97154b34.css",
-    "static/js/main.d1a37b7e.js"
+    "static/js/main.12125ed2.js"
   ]
 }
