@@ -22,7 +22,7 @@ function Navbar() :JSX.Element {
     <React.Fragment>
       <nav className="navbar">
         <div className="navbar-container">
-          <Link to='/tourist-page/' className ='navbar-logo'>
+          <Link to='/' className ='navbar-logo'>
             TRVL <i className="fab fa-typo3"></i>
          </Link>
             <div className="menu-icon" onClick = {handleClick}>
@@ -30,7 +30,7 @@ function Navbar() :JSX.Element {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className="nav-item">
-              <Link to='/tourist-page/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
                 Home
               </Link>
             </li>
